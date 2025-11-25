@@ -1,0 +1,1 @@
+{"name":"Local: Frequency_Array_I","url":"f:\\Phitron\\C++_solved\\Frequency_Array_I.cpp","tests":[{"id":1764075870583,"input":"10\n1 2 0 2 0 3 1 2 5 0","output":"0 -> 3\n1 -> 2\n2 -> 3\n3 -> 1\n4 -> 0\n5 -> 1\n "}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Phitron\\C++_solved\\Frequency_Array_I.cpp","group":"local","local":true}
