@@ -1,1 +1,0 @@
-{"name":"Local: Class_object","url":"f:\\Phitron\\C++_solved\\Class_object.cpp","tests":[{"id":1763547921136,"input":"Rafi\n18 5\nImran\n17 3\nLima \n19 2","output":"Rafi 18 5\nImran 17 3\nLima 19 2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Phitron\\C++_solved\\Class_object.cpp","group":"local","local":true}
