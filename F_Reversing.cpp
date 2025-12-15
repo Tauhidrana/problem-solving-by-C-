@@ -5,15 +5,15 @@ int main()
 
     int x;
     cin >> x;
-    int a[x];
+    vector<int> a(x);
     for (int i = 0; i < x; i++)
     {
         cin >> a[i];
     }
 
-    for (int i = x-1; i >=0; i--)
+    for (int i = x - 1; i >= 0; i--)
     {
-        cout << a[i]<<" ";
+        cout << a[i] << " ";
     }
 
     return 0;

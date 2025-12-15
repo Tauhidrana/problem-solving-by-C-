@@ -10,11 +10,14 @@ int main()
     {
         cin >> a[i] >> b[i];
     }
-    // vector<int> c(n);
-    // c = a;
+    vector<int> c(n);
     for (int i = 0; i < n; i++)
     {
-        cout << b[i] << " " << a[i] << " ";
+        c[i] = b[i] && a[i];
+    }
+    for (int i = 0; i < n; i++)
+    {
+        cout << c[i] << endl;
     }
 
     return 0;
